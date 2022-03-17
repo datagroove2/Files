@@ -1,0 +1,30 @@
+IFEO Tool is a simple batch file that adds or removes registry keys from Image File Execution Options (IFEO).
+This tool was developed to make more easier the proccess of blocking unknown trojan, virus or worms by simply
+adding the EXE to the list of IFEO with a dummy file execution.
+
+The problem!
+A user is using the computer and notice a increase of CPU usage or suddently the computer start running slow.
+The logic step for the user is view the Task Manager or Process Explorer and find which processes are causing this.
+The user then tries to close them but they keep re-opening or simply they don't close and the user antivirus does nothing.
+
+The solution!
+Execute the IFEO Tool batch file, write the process name + extension and restart the computer.
+After reboot go to the EXE location and delete the EXE.
+
+Limitation
+It isn't possible to block EXEs with similar names to system files (For example: svchost.exe).
+Doing this will lock the computer and it will require a rollback or reinstalation of Windows. 
+
+How to use?
+1) Add or remove registry keys. To add a new exe press 1. To remove press 2.
+2) Write the filename + extension (Example: virus.exe)
+
+Note:
+This batch require admin privileges.
+
+Download:
+https://www.filecrypt.cc/Container/3FDBE42AF5.html
+https://nitro.download/view/925A4C4AB30A77D/IFEO_Tool_V2.rar
+
+Virus Scan:
+The file is in plain text
