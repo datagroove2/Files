@@ -1,0 +1,13 @@
+In July 2018, the cloud-based video making service Animoto suffered a data breach.
+The breach exposed 22 million unique email addresses alongside names, dates of birth,
+country of origin and salted password hashes.
+
+On the News:
+https://techcrunch.com/2018/08/20/animoto-hack-exposes-personal-information-geolocation-data/
+
+Note: This database uses SHA256($pass.$salt) hashing furthermore the data is stored in full SQL format. 
+
+Download:
+http://gestyy.com/w6Y5hr
+https://filecrypt.cc/Container/CC296C76CE.html
+https://nitroflare.com/view/8C75E75A7DD3F0D/Animoto_database_leaked_July_2018.rar
