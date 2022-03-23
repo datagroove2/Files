@@ -1,0 +1,12 @@
+In October 2017, the blog commenting service Disqus announced they'd suffered a data breach.
+The breach dated back to July 2012 but wasn't identified until years later when the data finally
+surfaced. The breach contained over 17.5 million unique email addresses and usernames. Users who
+created logins on Disqus had salted SHA1 hashes of passwords whilst users who logged in via
+social providers only had references to those accounts.
+
+Announcement:
+https://blog.disqus.com/security-alert-user-info-breach
+
+Download: (Mirrors)
+https://ddl.to/tpnfx7k2mvxa/Disqus_Database_leaked_October_2017.rar
+https://hugesharing.net/hfytpzaon5rm/Disqus_Database_leaked_October_2017.rar
