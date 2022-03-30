@@ -1,0 +1,14 @@
+In February 2018, the diet and exercise service MyFitnessPal suffered a data breach.
+The incident exposed 144 million unique email addresses alongside usernames, IP addresses
+and passwords stored as SHA-1 and bcrypt hashes (the former for earlier accounts, the latter
+for newer accounts). In 2019, the data appeared listed for sale on a dark web marketplace
+(along with several other large breaches) and subsequently began circulating more broadly.
+
+Last June of 2019 a dehashed version of this database started circulating.
+After verifying the data the info is correct and valid.
+
+Download 1:
+http://thacorag.com/1oGM
+
+Download 2:
+http://nitroflare.com/view/3A765BD4D3642FA/myfitnesspal_emailpass_50M.rar
