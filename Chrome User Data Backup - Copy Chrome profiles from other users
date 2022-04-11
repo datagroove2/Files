@@ -1,0 +1,25 @@
+Go to the user computer that has Chrome Browser installed.
+1 - Make sure you close all Chrome windows.
+2 - Execute my "Chrome User Data Backup.exe" and let compress the User Data.
+3 - Copy ChromeBackup.rar from the desktop to your storage device.
+
+On your computer
+1 - Execute and install Chrome portable "GoogleChromePortable_95.0.4638.54_online.paf.exe".
+2 - Open ChromeBackup.rar with winrar.
+3 - Navigate to Users > Profile Name > Appdata > Local > Google > Chrome.
+4 - Extract the folder User Data to your desktop.
+5 - Copy the files inside User Data to GoogleChromePortable > Data > profile.
+6 - Open GoogleChromePortable.exe and explore the profile.
+
+Download 1:
+http://q.gs/19214853/chrome-user-data-backup
+http://gestyy.com/epE8c3
+http://bc.vc/MiBO7TW
+https://oke.io/uwR3DT4g
+
+Download 2:
+https://filecrypt.cc/Container/81890C5A2D.html
+https://oxy.st/d/HCue
+
+Virustotal:
+Didn't scan to avoid sharing the files but should have a few false positives. Use on a vmware or sandbox.
