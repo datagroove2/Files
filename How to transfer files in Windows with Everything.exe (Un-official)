@@ -1,0 +1,22 @@
+01 - Go to the Windows machine you want to access
+02 - Execute Everything.exe
+03 - Activate HTTP or FTP (I use HTTP)
+04 - Allow firewall access
+04 - CTRL+R > netstat (Grab the machine ip)
+05 - Go to the other Windows machine
+06 - Open the browser and type the ip
+07 - Navigate in the files you want to download
+08 - Download the files (File managers are allowed)
+
+NOTE: This step by step is to be used on local networks.
+
+Download:
+https://filecrypt.cc/Container/B41F7B617E.html
+http://gigapeta.com/dl/10172927a69a6b8
+https://rapidgator.net/file/eba35c43a63371354e2958b757e31735
+http://www.filefactory.com/file/68ela9fy1j64/Everything.rar
+https://nitro.download/view/4D1544A70B4AD7B/Everything.rar
+https://ddownload.com/ogonna633spq/Everything.rar
+
+Virustotal:
+https://www.virustotal.com/gui/file/f28db064401c8d0146074a65873a21a4ebe664248cc9218b9d4f1c6535e6d078
